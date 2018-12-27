@@ -1,0 +1,6 @@
+D:\自主学习\数据结构\program\DataStruct\DataStruct\bin\Debug\DataStruct.exe.config
+D:\自主学习\数据结构\program\DataStruct\DataStruct\bin\Debug\DataStruct.exe
+D:\自主学习\数据结构\program\DataStruct\DataStruct\bin\Debug\DataStruct.pdb
+D:\自主学习\数据结构\program\DataStruct\DataStruct\obj\Debug\DataStruct.csprojResolveAssemblyReference.cache
+D:\自主学习\数据结构\program\DataStruct\DataStruct\obj\Debug\DataStruct.exe
+D:\自主学习\数据结构\program\DataStruct\DataStruct\obj\Debug\DataStruct.pdb
